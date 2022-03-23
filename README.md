@@ -7,7 +7,7 @@ A Fast and Free discord invite checker written in python 3.7.9.
 - Fast
 - Clean UI
 ## Installation
-You can download the pre-built exe from [here](https://pages.github.com/), or you can compile it yourself.
+You can download a pre-built exe from [here](https://github.com/Nqndi/Favel/releases), or you can compile it yourself.
 ## Usage
 In order to use the program you need a long list of words which will be used as discord invite codes, and you also need proxies. (not proxyscrape)
 ## Capture
