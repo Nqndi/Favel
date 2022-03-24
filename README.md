@@ -11,12 +11,12 @@ You can download a pre-built exe from [here](https://github.com/Nqndi/Favel/rele
 ## Usage
 In order to use the program you need a long list of words which will be used as discord invite codes, and you also need proxies. (not proxyscrape)
 ## Capture
+You can customize the capture output in the settings.yaml file.
 Favel can capture the following informations:
 - Server Invite Code, Name, ID, Description
 - Member Count
 - Verification Level
 - Amount of Boosts
-You can customize the capture output in the settings.yaml file.
 ## UI
 ![a picture of program UI](https://cdn.discordapp.com/attachments/441646566831423508/956216787417063494/favel.png)
 ## Known Issues
