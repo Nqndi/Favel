@@ -1,5 +1,6 @@
 # Favel
 A Fast and Free discord invite checker written in python 3.7.9.
+This program can be used to snipe og/rare invite codes.
 ## Features
 - Http, Socks4, Socks5, Authentication proxies supported
 - Information Capture
